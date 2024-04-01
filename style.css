@@ -52,14 +52,14 @@ body {
 /* SOCIAL */
 
 .social{
-    height: 500px;
-    background-color: #e5e5e5;
+    height: auto;
+    background-color: #030011;
     padding: 40px 0;
 }
 
 .social .container .card{
     width: 200px;
-    color: #222;
+    color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -70,7 +70,7 @@ body {
 
 
 .social .container .card img{
-    width: 200px;
+    width: 150px;
 }
 
 .social .container .card h4{
